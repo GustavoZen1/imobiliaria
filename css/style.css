@@ -1,0 +1,85 @@
+body{min-width: 1000px;
+    background-image: url(../img/background.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+.barra-navegacao {
+    background-color:rgba(0, 0, 0, 0.514);
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-top: 0ch;
+    border-right: 0ch;
+    border-left: 0ch;
+
+}
+.alinhador {
+    padding-left: 1000px;
+}
+.anuncio-principal{
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;  
+    
+}
+.imagem-barra{
+    width:50%;
+}
+.barra-texto{
+    background:rgba(0, 0, 0, 0.623);
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+    border-color:rgba(0, 0, 0, 0.685);
+   border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 33px;
+    margin-bottom: 33px;
+  
+    border-style: solid;
+    border-color: black;
+    color: ghostwhite;
+}
+.barra-texto2{
+    background:rgba(0, 0, 0, 0.678);
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+
+    
+    border-style:solid ;
+    border-color: rgb(0, 0, 0);
+    border-left: 0px;
+    border-right: 0px;
+    color: ghostwhite;
+}
+.produto{
+    text-align: center;
+}
+.botao{
+    size: 300px 80px;
+    background-color:rgb(0, 0, 0);
+    font-size: xx-large;
+    color: ghostwhite;
+    border-radius: 10px;
+    border-style:solid;
+
+    border-color:rgb(255, 255, 255);
+    cursor: pointer;
+   
+}
+.espaco{
+    margin: 400px;
+}
+.contato{
+    background-color: black;
+    margin: 0%;
+    color: ghostwhite;
+    
+}
